@@ -1,2 +1,2 @@
-# Motus-game-
+# Motus-game
 python desktop game 
